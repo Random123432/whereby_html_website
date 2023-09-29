@@ -1,0 +1,58 @@
+.foot {
+    font-size: larger;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+.footerall {
+    height: 680px;
+}
+
+#pone, #po {
+    display: inline;
+    position: absolute;
+    padding-top: 165px;
+    padding-right: 125px;
+}
+
+#foothead {
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: 400;
+    padding-bottom: 30px;
+}
+
+#pc {
+    padding-bottom: 25px;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+#pone {
+    padding-left: 75px;
+}
+
+.product {
+    padding-left: 270px;
+}
+
+.pricing {
+    padding-left: 480px;
+}
+
+.social {
+    padding-left: 710px;
+}
+
+.support {
+    padding-left: 911px;
+}
+
+.Getintouch {
+    padding-left: 1140px;
+    width: 120px;
+}

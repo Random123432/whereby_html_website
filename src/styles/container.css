@@ -1,0 +1,418 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.head {
+    background-color: #F8DBD5;
+    margin: 0px;
+}
+
+a {
+    color: #006654;
+}
+
+.a {
+    line-height: 92px;
+    font-size: 80px;
+    font-weight: 400;
+    text-align: center;
+    text-indent: 0px;
+    width: 600px;
+    padding-left: 370px;
+}
+
+.ab {
+    line-height: 27px;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    width: 550px;
+    padding-left: 405px;
+    font-family: sans-serif;
+    padding-top: 30px;
+}
+
+.abcd {
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: 400;
+    text-align: left;
+    width: 550px;
+}
+
+.abcde{
+    text-align: left;
+    font-weight: 400;
+    line-height: 24px;
+    font-size: 16px;
+    font-family: sans-serif;
+    letter-spacing: -0.25px;
+    width: 490px;
+}
+
+.abc {
+    padding-left: 660px;
+    padding-top: 40px;
+}
+
+.abcdefg {
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.abcdefghij {
+    font-size: 56px;
+    line-height: 56px;
+    font-weight: 400;
+    text-align: center;
+    font-stretch: 100%;
+    width: 600px;
+}
+
+.vbs {
+    background-color: #F4F4F4;
+    height: 370px;
+}
+
+.abcdefghijk {
+    background-color: #f8dbd5;
+    width: 1050px;
+    border-radius: 16px;
+    height: 455px;
+    
+}
+
+.zimg {
+    padding-left: 230px;
+    padding-top: 80px;
+    margin-bottom: 53px;
+}
+
+.headsecond {
+    padding-top: 80px;
+}
+
+.jla {
+ background-color: #2B189B;
+ color: white;
+ font-family: sans-serif;
+ border: none;
+ border-radius: 16px;
+ height: 55px;
+ width: 170px;
+ font-size: 16px;
+ line-height: 24px;
+ font-weight: 500;
+}
+
+.hefr {
+    background-color: #2B189B;
+ color: white;
+ font-family: sans-serif;
+ border: none;
+ border-radius: 16px;
+ height: 55px;
+ width: 225px;
+ font-size: 16px;
+ line-height: 24px;
+ font-weight: 500;
+}
+
+.hefra {
+    padding-left: 425px;
+    padding-top: 10px;
+    padding-bottom: 195px;
+}
+
+.ZN {
+    height: 36px;
+    padding-bottom: 4px;
+    
+}
+
+.ZQ {
+    height: 30px;
+    padding-left: 40px;
+    padding-bottom: 11px;
+}
+
+.ZP {
+    height: 30px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+}
+
+.R {
+    height: 40px;
+    padding-left: 40px;
+    padding-bottom: 7px;
+}
+
+.ZO {
+    height: 15px;
+    padding-left: 50px;
+    padding-bottom: 18px;
+}
+
+.ZE {
+    height: 60px;
+    padding-left: 60px;
+}
+
+.picturessectionone {
+    padding-left: 197px;
+    padding-top: 50px;
+}
+
+.abcdefgh {
+    padding-top: 230px;
+    padding-bottom: 195px;
+}
+
+.abcdefghij {
+    padding-left: 380px;
+}
+
+.abcdef {
+    padding-top: 160px;
+}
+
+.sbv {
+    padding-left: 500px;
+    padding-top: 105px;
+    position: absolute;
+}
+
+.lj {
+    font-size: 48px;
+    line-height: 60px;
+    font-weight: 400;
+}
+
+.jl {
+    padding-left: 75px;
+    padding-top: 27px;
+}
+
+.ZI {
+    position: absolute;
+    height: 405px;
+   
+}
+
+.F {
+    position: absolute;
+    right: 0;
+    height: 405px;
+    
+}
+
+.firstbutton {
+    background-color: #2B189B;
+ color: white;
+ font-family: sans-serif;
+ border: none;
+ border-radius: 16px;
+ height: 55px;
+ width: 170px;
+ font-size: 16px;
+ line-height: 24px;
+ font-weight: 500;
+ display: block;
+}
+
+.firstbuttonposition {
+    padding-top: 15px;
+}
+
+.ZH {
+    width: 355px;
+    box-shadow: 0px 2px 8px 0px rgba(0,0,0,0.2);
+}
+
+.abcdefghi {
+    padding-left: 95px;
+    padding-top: 50px;
+}
+
+#wer {
+    text-align: center;
+    font-weight: 500;
+    line-height: 27px;
+    font-size: 18px;
+    padding-top: 30px;
+    font-family: sans-serif;
+}
+.abz {
+    width: 355px;
+}
+
+#rew {
+    text-align: center;
+    padding-top: 7px;
+    padding-bottom: 12px;
+}
+
+.ZG {
+    width: 355px;
+    box-shadow: 0px 2px 8px 0px rgba(0,0,0,0.2);
+}
+
+.E {
+    width: 355px;
+    box-shadow: 0px 2px 8px 0px rgba(0,0,0,0.2);
+}
+
+.aby {
+    width: 355px;
+    position: absolute;
+    display: inline;
+    right: 500px;
+    top: 2218px;
+}
+
+.abx {
+    width: 355px;
+    position: absolute;
+    right: 100px;
+    top: 2218px;
+}
+
+.pinksection {
+    padding-left: 145px;
+    padding-bottom: 200px;
+}
+
+.W {
+    height: 325px;
+    position: absolute;
+    right: 212px;
+    top: 2865px;
+}
+
+.bcd {
+    font-size: 56px;
+    line-height: 56px;
+    font-weight: 400;
+    width: 500px;
+}
+
+.bc {
+    padding-left: 65px;
+    padding-top: 85px;
+}
+
+.bcde {
+    padding-top: 25px;
+    width: 400px;
+    line-height: 24px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: sans-serif;
+    padding-bottom: 17px;
+}
+
+.discovermore {
+    line-height: 24px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #190F57;
+    text-decoration: underline;
+    font-family: sans-serif;
+}
+
+.bcdefg {
+    background-color: #2B189B;
+    color: white;
+    font-family: sans-serif;
+    border: none;
+    border-radius: 16px;
+    height: 50px;
+    width: 165px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    display: block;
+}
+
+.bcdef {
+    padding-top: 20px;
+}
+
+#fourpictures {
+    width: 500px;
+}
+
+.fourpicsection {
+    padding-left: 140px;
+}
+
+.hthree {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+    text-align: left;
+    font-family: sans-serif;
+    padding-top: 20px;
+}
+
+.paragraph {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    font-family: sans-serif;
+    text-align: left;
+    width: 475px;
+    padding-top: 5px;
+    padding-bottom: 50px;
+}
+
+.delight {
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.delightpara {
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    text-align: center;
+    width: 575px;
+    padding-bottom: 45px;
+    padding-left: 270px;
+    padding-top: 15px;
+}
+
+.sec {
+    padding-right: 100px;
+}
+
+.second {
+    position: absolute;
+    right: 144px;
+    top: 3612px;
+}
+
+.secondtwo {
+    position: absolute;
+    right: 144px;
+    top: 4102.5px;
+}
+
+.fullpinksection {
+    border-radius: 12px;
+    height: 745px;
+    width: 1000px;
+    background-color: #f8dbd5;
+}
+
+.fullsection {
+    padding-left: 180px;
+    padding-bottom: 170px;
+}
